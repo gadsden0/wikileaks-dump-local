@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:04:12	27/27	---M--	200	added ('OK')	text/plain	etag:%221a54d3cc-1b%22	https://file.wikileaks.org/robots.txt		(from )
+12:04:12	241466/241466	---MC-	200	added ('OK')	text/html	date:Mon,%2015%20Jun%202020%2019:04:11%20GMT	https://file.wikileaks.org/file/	/Users/rocket/websites/wikileaksfiles/file.wikileaks.org/file/index.html	(from )
